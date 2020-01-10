@@ -7,3 +7,5 @@ spec:
   params:
   - name: url
     value: https://github.com/PuneetPunamiya/vote-api.git
+  - name: revision
+    value: vote-cicd
